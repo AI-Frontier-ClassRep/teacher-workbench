@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://accounts.iris-pro.com.cn/">产品官网</a>　·　
   <a href="https://accounts.iris-pro.com.cn/pages/help.html#installation">安装说明</a>　·　
-  <a href="https://github.com/pangmenzuodao/teacher-workbench/releases/latest">GitHub Releases</a>　·　
+  <a href="https://github.com/AI-Frontier-ClassRep/teacher-workbench/releases/latest">GitHub 备用下载</a>　·　
   <a href="SHA256.txt">SHA‑256 校验</a>
 </p>
 
