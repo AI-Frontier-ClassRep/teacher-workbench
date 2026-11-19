@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="https://download.iris-pro.com.cn/downloads/%E6%95%99%E5%B8%88%E5%B7%A6%E8%86%80%E5%8F%B3%E8%87%82-2.2.9.20261102.5.exe"><img src="assets/download-windows.png" alt="下载 Windows 版" width="270"></a>
+  &ensp;
+  <a href="https://download.iris-pro.com.cn/downloads/Teacher-Workbench-2.2.9-mac-arm64-test.dmg"><img src="assets/download-macos.png" alt="下载 Mac 测试版（Apple M 系列）" width="270"></a>
 </p>
 
 <p align="center">
@@ -26,7 +28,7 @@
 
 ## 从备课到课堂
 
-教师左膀右臂把备课单、教学设计、课件、教学配图和互动实验放进同一个 Windows 工作台。
+教师左膀右臂把备课单、教学设计、课件、教学配图和互动实验放进同一个桌面工作台。
 
 | 教学场景 | 可以完成的工作 |
 | --- | --- |
@@ -41,7 +43,7 @@
 
 ## 安装与使用
 
-1. 下载并运行 Windows 安装程序。
+1. Windows 用户下载并运行安装程序。Mac 用户打开 DMG 后，将应用拖到「应用程序」。
 2. 启动软件，按提示登录。首次注册可体验 30 天。
 3. 配置自己的模型 API，选择教学场景开始使用。模型 API 调用费用单独计费。
 
