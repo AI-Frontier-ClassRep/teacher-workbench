@@ -18,6 +18,12 @@
   <a href="SHA256.txt">SHA‑256 校验</a>
 </p>
 
+## macOS 测试版
+
+适用于 Apple M 系列芯片（ARM64），建议使用 macOS 15 或更新版本。安装包约 286 MiB，使用本地签名，尚未经过 Apple 公证。
+
+[官网 CDN 加速下载](https://download.iris-pro.com.cn/downloads/Teacher-Workbench-2.2.9-mac-arm64-test.dmg) · [GitHub 备用下载](https://github.com/AI-Frontier-ClassRep/teacher-workbench/releases/tag/v2.2.9-macos-arm64-test.20261119) · [Mac 校验文件](https://download.iris-pro.com.cn/downloads/SHA256-macos.txt)
+
 ## 从备课到课堂
 
 教师左膀右臂把备课单、教学设计、课件、教学配图和互动实验放进同一个 Windows 工作台。
