@@ -51,16 +51,20 @@
   <section class="social" id="follow" aria-labelledby="follow-name">
     <div class="wrap social-row">
       <div class="social-person">
-        <img class="avatar" src="assets/ai-frontier-logo.webp" alt="AI 前沿课代表标志" width="72" height="72">
-        <div><div class="social-label"><img src="assets/xiaohongshu-logo.webp" alt="小红书" width="48" height="25"><span>关注出品人</span></div>
-        <h2 id="follow-name">AI 前沿课代表</h2></div>
+        <img class="avatar" src="assets/ai-frontier-logo.webp" alt="" width="72" height="72">
+        <div><p class="social-label"><img src="assets/xiaohongshu-logo.webp" alt="小红书" width="48" height="25"><span>教师左膀右臂出品人</span></p>
+        <h2 id="follow-name">关注 AI 前沿课代表</h2>
+        <p class="social-description">看新模型、新工具和 AI 实战课拆解。</p></div>
       </div>
-      <div class="social-description"><strong>新模型、新工具、实战课拆解。</strong><p>打开小红书扫一扫，或搜索小红书号关注。</p></div>
-      <div class="social-number"><span>小红书号</span>
-        <button id="copy-id" type="button" aria-label="复制小红书号 63633132548"><span>63633132548</span><img src="assets/icon-copy.svg" alt="" width="15" height="15"></button>
-        <small id="copy-status" role="status"></small>
+      <div class="social-actions">
+        <a class="follow-primary" href="https://xhslink.com/m/79b0CqDhBij" target="_blank" rel="noopener noreferrer">去小红书关注 <span aria-hidden="true">↗</span></a>
+        <div class="social-number">
+          <button id="copy-id" type="button" aria-label="复制小红书号 63633132548"><img src="assets/icon-copy.svg" alt="" width="15" height="15">复制小红书号</button>
+          <p>小红书号 <span id="profile-id">63633132548</span></p>
+          <small id="copy-status" role="status"></small>
+        </div>
       </div>
-      <button class="qr-open" data-preview="assets/xiaohongshu-qr.webp" data-title="扫码关注 AI 前沿课代表" data-qr type="button"><img src="assets/xiaohongshu-qr.webp" width="86" height="86" alt="放大小红书关注二维码"></button>
+      <button class="qr-open" data-preview="assets/xiaohongshu-qr.webp" data-title="关注 AI 前沿课代表" data-qr aria-haspopup="dialog" aria-label="放大小红书关注二维码" type="button"><img src="assets/xiaohongshu-qr.webp" width="112" height="112" alt=""><span>扫码关注 · 点按放大</span></button>
     </div>
   </section>
 
@@ -182,6 +186,7 @@
   <div class="viewer-body">
     <div class="viewer-head"><h2 id="viewer-title"></h2><button class="close" id="viewer-close" type="button" aria-label="关闭预览"><img src="assets/icon-close.svg" width="20" height="20" alt=""></button></div>
     <img class="viewer-image" id="viewer-image" alt="">
+    <p class="qr-guide">用小红书扫一扫，进入主页后点「关注」。<span>在手机上，可长按保存二维码，再从小红书「扫一扫」中选择相册。</span></p>
     <a id="save-card" href="assets/xiaohongshu-profile-card.jpg" download="AI前沿课代表-小红书名片.jpg" hidden>保存完整小红书名片</a>
   </div>
 </dialog>

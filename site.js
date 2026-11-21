@@ -113,15 +113,15 @@ document.getElementById("viewer-close").addEventListener("click", () => viewer.c
 viewer.addEventListener("click", event => { if (event.target === viewer) viewer.close(); });
 
 document.getElementById("copy-id").addEventListener("click", async () => {
-  const number = "63633132548";
+  const number = document.getElementById("profile-id");
   const status = document.getElementById("copy-status");
   try {
-    await navigator.clipboard.writeText(number);
+    await navigator.clipboard.writeText(number.textContent);
     status.textContent = "已复制";
   } catch {
     const selection = window.getSelection();
     const range = document.createRange();
-    range.selectNodeContents(document.querySelector("#copy-id span"));
+    range.selectNodeContents(number);
     selection.removeAllRanges();
     selection.addRange(range);
     status.textContent = "号码已选中，可复制";
