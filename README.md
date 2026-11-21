@@ -16,9 +16,9 @@
 
 新模型、新工具怎么用在教学里？来小红书看实战拆解。
 
-<a href="https://ai-frontier-classrep.github.io/teacher-workbench/assets/xiaohongshu-profile-card.jpg"><img align="right" src="assets/xiaohongshu-qr.png" width="140" alt="用小红书扫一扫，关注 AI 前沿课代表"></a>
+<a href="https://ai-frontier-classrep.github.io/teacher-workbench/assets/xiaohongshu-profile-card.jpg"><img align="right" src="assets/xiaohongshu-qr.png" width="128" alt="用小红书扫一扫，关注 AI 前沿课代表"></a>
 
-[**去小红书关注 ↗**](https://xhslink.com/m/79b0CqDhBij)
+[**去小红书关注**](https://xhslink.com/m/79b0CqDhBij)
 
 **小红书号**　<code>63633132548</code>
 
