@@ -12,6 +12,20 @@
 
 [打开完整展示页 ↗](https://ai-frontier-classrep.github.io/teacher-workbench/) · [产品官网](https://accounts.iris-pro.com.cn/) · [安装说明](https://accounts.iris-pro.com.cn/pages/help.html#installation)
 
+<h2><img src="assets/xiaohongshu-logo.webp" width="48" alt="小红书"> 关注 AI 前沿课代表</h2>
+
+<a href="https://ai-frontier-classrep.github.io/teacher-workbench/assets/xiaohongshu-profile-card.jpg"><img align="right" src="assets/xiaohongshu-qr.png" width="168" alt="用小红书扫一扫，关注 AI 前沿课代表"></a>
+
+想看看新模型、新工具怎么用在教学里？来小红书看实战拆解。
+
+**小红书号**　<code>63633132548</code>
+
+打开小红书扫码，或搜索上方号码，进入主页点「关注」。
+
+[**去小红书关注 ↗**](https://xhslink.com/m/79b0CqDhBij) · [查看完整名片](https://ai-frontier-classrep.github.io/teacher-workbench/assets/xiaohongshu-profile-card.jpg)
+
+<br clear="all">
+
 ### 走进教学工作台。
 
 课前备课、教学设计、教学课件、教学配图、互动实验。选一个场景，看看从哪里开始、能带走怎样的课堂材料。
@@ -38,4 +52,4 @@ Windows 用户运行安装程序即可。Mac 用户打开 DMG 后，将应用拖
 
 用手机号注册可免费体验 30 天。在设置中填入自己的模型 API，选择工作区，就可以开始备课。模型 API 和生图调用费用另计。[使用帮助](https://accounts.iris-pro.com.cn/pages/help.html) · [会员与费用](https://accounts.iris-pro.com.cn/pages/membership.html)
 
-**AI 前沿课代表** 出品 · [小红书关注二维码](https://ai-frontier-classrep.github.io/teacher-workbench/#follow) · [第三方许可说明](THIRD-PARTY.md)
+**AI 前沿课代表** 出品 · [第三方许可说明](THIRD-PARTY.md)
