@@ -14,15 +14,15 @@
 
 <h2><img src="assets/xiaohongshu-logo.webp" width="48" alt="小红书"> 关注 AI 前沿课代表</h2>
 
-<a href="https://ai-frontier-classrep.github.io/teacher-workbench/assets/xiaohongshu-profile-card.jpg"><img align="right" src="assets/xiaohongshu-qr.png" width="168" alt="用小红书扫一扫，关注 AI 前沿课代表"></a>
+新模型、新工具怎么用在教学里？来小红书看实战拆解。
 
-想看看新模型、新工具怎么用在教学里？来小红书看实战拆解。
+<a href="https://ai-frontier-classrep.github.io/teacher-workbench/assets/xiaohongshu-profile-card.jpg"><img align="right" src="assets/xiaohongshu-qr.png" width="140" alt="用小红书扫一扫，关注 AI 前沿课代表"></a>
+
+[**去小红书关注 ↗**](https://xhslink.com/m/79b0CqDhBij)
 
 **小红书号**　<code>63633132548</code>
 
-打开小红书扫码，或搜索上方号码，进入主页点「关注」。
-
-[**去小红书关注 ↗**](https://xhslink.com/m/79b0CqDhBij) · [查看完整名片](https://ai-frontier-classrep.github.io/teacher-workbench/assets/xiaohongshu-profile-card.jpg)
+用小红书扫码，或搜索上方号码，进入主页点「关注」。[查看完整名片](https://ai-frontier-classrep.github.io/teacher-workbench/assets/xiaohongshu-profile-card.jpg)
 
 <br clear="all">
 
