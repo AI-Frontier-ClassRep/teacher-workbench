@@ -12,7 +12,7 @@
 
 [打开完整展示页 ↗](https://ai-frontier-classrep.github.io/teacher-workbench/) · [产品官网](https://accounts.iris-pro.com.cn/) · [安装说明](https://accounts.iris-pro.com.cn/pages/help.html#installation)
 
-<h2><img src="assets/xiaohongshu-logo.webp" width="48" alt="小红书"> 关注 AI 前沿课代表</h2>
+<h2><sub><img src="assets/xiaohongshu-logo.webp" width="48" alt="小红书"></sub> 关注 AI 前沿课代表</h2>
 
 新模型、新工具怎么用在教学里？来小红书看实战拆解。
 
